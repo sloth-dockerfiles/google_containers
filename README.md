@@ -16,4 +16,5 @@
 | gcr.io/google_containers/kube-scheduler-amd64:v1.13.1        | v1.13.1        | docker pull jediz90/kube-scheduler-amd64:v1.13.1          |
 | k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.1                | v1.10.1        | docker pull jediz90/kubernetes-dashboard-amd64:v1.10.1    |
 | gcr.io/google_containers/pause:3.1                           | 3.1            | docker pull jediz90/pause:3.1                             |
+| gcr.io/google-samples/node-hello:1.0                         | 1.0            | docker pull jediz90/node-hello:1.0                        |
 
