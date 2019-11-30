@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/eventing-contrib/kafka/source/cmd/controller@sha256:d42cbd1233f2cc6bd0e75c44679bd408423fe89056f4ce67e18ccbd41f5ce7e7
+MAINTAINER JediZ90

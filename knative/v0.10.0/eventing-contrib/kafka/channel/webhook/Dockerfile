@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/eventing-contrib/kafka/channel/cmd/webhook@sha256:467ad55b0ab9dd3317d263bb060fb9698a512cae9146ebecccce602239452142
+MAINTAINER JediZ90

@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/eventing-contrib/kafka/channel/cmd/channel_controller@sha256:a4531579ca8854d6ca59071e4c1abbfa01fd472bd8ac98f69c2f6562fad38535
+MAINTAINER JediZ90

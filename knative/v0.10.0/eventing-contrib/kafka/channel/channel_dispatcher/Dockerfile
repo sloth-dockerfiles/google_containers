@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/eventing-contrib/kafka/channel/cmd/channel_dispatcher@sha256:f095d31a4685538e1abf777b9f3fc871aa1f38f431b65ff5948a6fa03785e3b2
+MAINTAINER JediZ90

@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/eventing-contrib/github/cmd/controller@sha256:b5a9f680818212112bcf30e4f7d34c373c8ff0867a7af8093f3b23be7aa694eb
+MAINTAINER JediZ90

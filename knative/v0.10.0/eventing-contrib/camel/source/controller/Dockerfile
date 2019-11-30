@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/eventing-contrib/camel/source/cmd/controller@sha256:3ef02bae9153442485c0efffb7c9eb03431f54f1d571776891ec1731e27cd9ea
+MAINTAINER JediZ90
