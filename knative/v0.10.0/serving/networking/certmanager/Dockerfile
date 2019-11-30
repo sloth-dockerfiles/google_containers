@@ -1,0 +1,2 @@
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/networking/certmanager@sha256:1689ce4fa7f920859eca56ab891490be5ff4462b1e220c6fd7bf8405170d2979
+MAINTAINER JediZ90
